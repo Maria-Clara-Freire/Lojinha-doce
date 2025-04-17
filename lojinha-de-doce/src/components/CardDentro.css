@@ -26,11 +26,7 @@
   transform: scale(1.05);
 }
 
-.BlocoDescriAvali {
-  display: flex;
-  justify-content: space-between;
-  padding: 2%;
-}
+
 
 .Descricao {
   display: flex;
@@ -38,7 +34,8 @@
   text-align: justify;
   font-size: 1.1vw;
   color: #333;
-  margin-right: 20px;
+  margin-left: 40px;
+  margin-top: 40px;
   padding: 10px;
   border-radius: 5px;
   background-color: #f9f9f9;
@@ -46,7 +43,7 @@
 
 
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
-  width: 70%;
+  width: 90%;
 }
 
 .Avaliacao {
