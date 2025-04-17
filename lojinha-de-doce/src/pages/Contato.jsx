@@ -95,7 +95,7 @@ function Contato() {
         <button type="submit">Enviar Informações</button>
       </form>
 
-      <ProximaViajem texto="Próximo" caminho="/detalhe2" />
+      <ProximaViajem texto="Próximo" caminho="/" />
       <Footer />
     </div>
   );
