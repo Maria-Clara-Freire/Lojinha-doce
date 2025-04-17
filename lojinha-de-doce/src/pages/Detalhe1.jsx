@@ -38,7 +38,7 @@ function Viajem1() {
   } 
 />
 
-<ProximaViajem texto="Próximo" caminho="/viajem2" />
+<ProximaViajem texto="Próximo" caminho="/detalhe2" />
       <Footer/>
     </>
   );

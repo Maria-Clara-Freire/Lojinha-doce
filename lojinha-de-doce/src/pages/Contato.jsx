@@ -15,7 +15,7 @@ function Viajem4() {
       
 
       <CardDentro 
-  nome={imagem1} 
+
   descricao= {
       <>
       País da América do Norte com uma natureza exuberante, cidades vibrantes e uma grande diversidade cultural.<br></br><br></br>
