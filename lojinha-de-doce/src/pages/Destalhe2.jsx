@@ -16,17 +16,16 @@ function Viajem2() {
       <Nav/>
    
 
-      <CardDentro 
+      <CardDentro
+
 
   descricao={
     <>
-   Florença, capital da região Toscana, na Itália, abriga muitas obras de arte e arquitetura renascentistas. São 11 h 50 min para chegar.<br></br><br></br>
-   PACOTE IMPERDÍVEL<br></br> 
-   Até 6 pessoas  <br></br>
-   8 diárias <br></br>
-   Incluso: Café da manhã, Almoço, Café da tarde, Janta, Área de lazer, Guia turístico por 5 horas diárias, Cancelamento gratuito. <br></br>
-   Valor a vista: R$7798,00, ou até 5 x R$1.559,00 sem juros!!! <br></br>
-   Disponível até: 07/06/2025
+   O nosso Sonho tem especialidades que o torna único e saboroso. Ele é feito com ingredientes selecionados, como baunilha, açúcar de padeiro cristalizado<br></br>
+    e sua textura macia. Cada mordida revela uma combinação perfeita de sabores e um aroma envolvente.<br></br>
+      Além disso, nosso Sonho é produzido artesanalmente, garantindo qualidade e frescor em cada unidade. <br></br>
+      Experimente essa delícia que vai conquistar seu paladar e preencher seu melhores sonhos!<br></br>
+      🥐🥛🍦😉
     </>
   } 
 /> 
