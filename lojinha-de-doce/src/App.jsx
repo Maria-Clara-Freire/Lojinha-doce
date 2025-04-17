@@ -1,20 +1,21 @@
 import './App.css'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from './pages/Home';
-import Viajem1 from './pages/Viajem1';
-import Viajem2 from './pages/Viajem2';
-import Viajem3 from './pages/Viajem3';
-import Viajem4 from './pages/Viajem4';
+import Detalhe1 from './pages/Detalhe1'
+import Detalhe2 from './pages/Destalhe2';
+import Detalhe3 from './pages/Detalhe3';
+import Contato from './pages/Contato';
+
 
 function App() {
   return (
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home/>} />
-        <Route path="/viajem1" element={<Viajem1/>} />
-        <Route path="/viajem2" element={<Viajem2/>} />
-        <Route path="/viajem3" element={<Viajem3/>} />
-        <Route path="/viajem4" element={<Viajem4/>} />
+        <Route path="/detalhe1" element={<Detalhe1/>} />
+        <Route path="/detalhe2" element={<Detalhe2/>} />
+        <Route path="/detalhe3" element={<Detalhe3/>} />
+        <Route path="/contato" element={<Contato/>} />
       </Routes>
     </BrowserRouter>
   )

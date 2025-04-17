@@ -23,7 +23,7 @@ function Viajem1() {
       
 
       <CardDentro 
-  nome={imagem1} 
+  
   descricao= {
     <>
     País do sudeste da Europa com milhares de ilhas espalhadas pelos mares.

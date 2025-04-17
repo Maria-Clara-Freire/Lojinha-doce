@@ -6,6 +6,7 @@ function Nav() {
     <nav className="nav">
      
           <Link to="/">Home</Link>
+
        
           <Link to="/viajem4">Contato</Link>
      

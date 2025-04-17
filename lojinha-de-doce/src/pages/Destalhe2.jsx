@@ -17,7 +17,7 @@ function Viajem2() {
    
 
       <CardDentro 
-  nome={imagem1} 
+
   descricao={
     <>
    Florença, capital da região Toscana, na Itália, abriga muitas obras de arte e arquitetura renascentistas. São 11 h 50 min para chegar.<br></br><br></br>

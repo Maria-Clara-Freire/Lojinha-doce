@@ -24,7 +24,7 @@ function Home() {
             nota={5.8}
             descricao="Grécia te fazer viajar na história. Viaje com a gente!"
             valor="5 diárias, 5x R$550,00 SEM JUROS!!"
-             link="/viajem1"
+            link="/detalhe1"
           />
           <Cards
             img={Florenca}
@@ -33,7 +33,7 @@ function Home() {
             nota={9.7}
             descricao="Viaje para Itália e acalme sua mentes em suas férias."
             valor="8 diárias, 5x R$1.559,00 SEM JUROS!!"
-            link="/viajem2"
+            link="/detalhe2"
           />
           <Cards
             img={Maldivas}
@@ -42,13 +42,13 @@ function Home() {
             nota={8.3}
             descricao="Viajar é bom, e para maldivas melhor ainda!"
             valor="5 diárias, 5x R$240,00 SEM JUROS!!"
-            link="/viajem3"
+            link="/detalhe3"
 
           />
         </div>
       </main>
 
-      <Footer/>
+      <Footer />
     </>
   );
 }
